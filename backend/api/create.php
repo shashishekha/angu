@@ -1,5 +1,6 @@
 <?php
 require 'database.php';
+//This is a comment. just ignore it i am learning to clone. This is really cool.
 
 // Get the posted data.
 $postdata = file_get_contents("php://input");
